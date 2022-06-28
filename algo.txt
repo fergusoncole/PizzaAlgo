@@ -2,3 +2,6 @@ Google a pizza place
 Order a cheese pizza
 Pay for the pizza
 Take a nap
+Wake up from nap
+Eat cold pizza
+Return to nap
