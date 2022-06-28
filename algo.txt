@@ -1,0 +1,4 @@
+Google a pizza place
+Order a cheese pizza
+Pay for the pizza
+Take a nap
